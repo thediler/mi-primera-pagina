@@ -1,0 +1,10 @@
+.title{
+    font-size: 40px;
+    background: red;
+    width: fit-content;
+}
+.segundotitle{
+    font-size: 30px;
+    background-color: blue;
+    width: fit-content;
+}
